@@ -1,0 +1,23 @@
+{
+  "name": "Start",
+  "authors": [
+    "Renzo D. Zegarra Calisaya <infozeg@gmail.com>"
+  ],
+  "description": "Pagina de pruebas. GIT, GULP, BOWER, GULP-BROWSERSYNC",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "app/vendor"
+  ],
+  "devDependencies": {
+    "animate.css": "animate-css#^3.5.2",
+    "normalize-css": "^6.0.0"
+  }
+}
